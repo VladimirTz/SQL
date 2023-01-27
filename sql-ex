@@ -16,4 +16,4 @@ Printer(code, model, color, type, price)
 В таблице Printer для каждой модели принтера указывается, является ли он цветным - color ('y', если цветной), 
 тип принтера - type (лазерный – 'Laser', струйный – 'Jet' или матричный – 'Matrix') и цена - price.
 
-Схема базы данных: https://drive.google.com/file/d/1hF8ATFt1ZH6k166yAqUQ0zpZ6HXWdFRZ/view?usp=sharing
+Схема базы данных: link
