@@ -1,5 +1,4 @@
 # SQL
-_________________________________________________________________________________________________________________________________________
 ## SQL_DDL
 ### Первая часть. [HW_SQL_DDL.sql](<https://github.com/VladimirTz/SQL/blob/main/HW_SQL_DDL.sql>)
 <details><summary>Первая часть SQL_DDL</summary>
